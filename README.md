@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Top-Banner" src="images/light-wave-t.png">
+  <img alt="Top-Banner" width="100%" src="images/light-wave-t.png">
 </p>
 
 <h1 align="center">Hi, :wave: I'm Oscar Bridge</h1>
@@ -35,5 +35,5 @@ Contact me for demo credentials for these programs.
 - 👤 Facebook: Oscar Bridge
 
 <p align="center">
-  <img alt="Bottom-Banner" src="images/light-wave.png">
+  <img alt="Bottom-Banner" width="100%" src="images/light-wave.png">
 </p>
