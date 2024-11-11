@@ -16,10 +16,6 @@
 
 Contact me for demo credentials for these programs.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarrbridge&layout=compact&theme=nord">
-</p>
-
 ## 📫 Contact Me
 - 📧 Email: oscarbridge.nz@gmail.com
 - 📸 Instagram: oscarrbridge
